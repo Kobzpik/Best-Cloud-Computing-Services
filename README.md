@@ -52,7 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Kobzpik"><img src="https://avatars.githubusercontent.com/u/57173720?s" width="100px;" alt=""/><br /><sub><b>Prabath Indrajith</b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Tutorials">✅</a> <a href="" title="Reviewed Pull Requests">👀</a> <a href="" title="">💡</a> <a href="" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/User"><img src="https://avatars.githubusercontent.com/u/58288364?v=4" width="100px;" alt=""/><br /><sub><b>user </b></sub></a><br /><a href="" title="Documentation">📖</a> <a " title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/RuchithaVirashan"><img src="https://avatars.githubusercontent.com/u/58288364?v=4" width="100px;" alt=""/><br /><sub><b>Ruchitha Virashan</b></sub></a><br /><a href="" title="Documentation">📖</a> <a " title="Tutorials">✅</a></td>
     
     
   <tr>
