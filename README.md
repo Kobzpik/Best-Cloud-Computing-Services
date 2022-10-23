@@ -53,6 +53,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Kobzpik"><img src="https://avatars.githubusercontent.com/u/57173720?s" width="100px;" alt=""/><br /><sub><b>Prabath Indrajith</b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Tutorials">✅</a> <a href="" title="Reviewed Pull Requests">👀</a> <a href="" title="">💡</a> <a href="" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/RuchithaVirashan"><img src="https://avatars.githubusercontent.com/u/58288364?v=4" width="100px;" alt=""/><br /><sub><b>Ruchitha Virashan</b></sub></a><br /><a href="" title="Documentation">📖</a> <a " title="Tutorials">✅</a></td>
+      <td align="center"><a href="https://github.com/rashmiedirisuriya97"><img src="https://avatars.githubusercontent.com/u/73052887?v=4" width="100px;" alt=""/><br /><sub><b>Rashmi Edirisuriya</b></sub></a><br /><a href="" title="Documentation">📖</a> <a " title="Tutorials">✅</a></td>
+     <td align="center"><a href="https://github.com/nilupulmanodya"><img src="https://avatars.githubusercontent.com/u/57173445?v=4" width="100px;" alt=""/><br /><sub><b>Nilupul Manodya</b></sub></a><br /><a href="" title="Documentation">📖</a> <a " title="Tutorials">✅</a></td>
     
     
   <tr>
