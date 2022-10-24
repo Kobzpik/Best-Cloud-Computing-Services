@@ -27,12 +27,14 @@ Infrastructure as a service (IaaS) -  can define as a type of cloud computing th
 
 ## Platform-as-a-service
 
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications. You purchase the resources you need from a cloud service provider on a pay-as-you-go basis and access them over a secure Internet connection. PaaS allows you to avoid the expense and complexity of buying and managing software licenses, the underlying application infrastructure and middleware, container orchestrators such as Kubernetes, or the development tools and other resources. You manage the applications and services you develop, and the cloud service provider typically manages everything else.
+
 | service  | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
 
 ## Software-as-a-service
 
-SaaS (Software-as-a-Service) is the new way of distributing and selling software. It is based on the cloud, so there is no need for the physical distribution of the software.
+SaaS (Software-as-a-Service) is the new way of distributing and selling software. It is based on the cloud, so there is no need for the physical distribution of the software. SaaS applications are sometimes called Web-based software, on-demand software, or hosted software. Whatever the name, SaaS applications run on a SaaS provider’s servers. The provider manages access to the application, including security, availability, and performance.
 
 | service  | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
