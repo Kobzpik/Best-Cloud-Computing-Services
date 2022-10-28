@@ -31,6 +31,12 @@ Platform as a service (PaaS) is a complete development and deployment environmen
 
 | service  | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
+| SAP Cloud | SAP offers cloud PaaS as an open business platform. The platform has been developed for the smooth and seamless deployment of applications. Besides, its PaaS service integrates cloud and on-premise apps and offers many supporting services. This includes a library of over 1,300 apps built on the same PaaS platform. | https://www.sap.com/products/cloud-platform.html|
+| Salesforce Lightning | Lightning is Salesforce’s next-generation PaaS platform. It is a component-based framework meant for app development. It provides a user-friendly user interface (UI) with advanced features that boost the experience of both business users and IT teams. The platform offers a rapid application development feature that includes the use of reusable building blocks. |https://www.salesforce.com/campaign/lightning/|
+| AWS Lambda | AWS Lambda is a part of Amazon Cloud and supports the effective management of Amazon Web Services (AWS) resources. This implies that users can run code without provisioning the resources or managing the server. This PaaS environment is multi-code capable, and therefore, enables any kind of software development. The serverless architecture of the platform allows it to handle micro-service architecture quite easily and, as such, has garnered the attention of numerous enterprises worldwide. | https://aws.amazon.com/lambda/ |
+|Google App Engine| Google App Engine is a part of the Google Cloud ecosystem. It is a scalable serverless PaaS platform meant for rapid deployment. Google generally provides a set of highly capable servers that can cope with growing volumes of queries. Developers, however, have raised concerns regarding Google App Engine’s services. Some of the prominent issues include lack of support in some language environments, inadequate development tools, and failure to plug-and-play some applications, besides many others. |https://cloud.google.com/appengine|
+|Pivotal Cloud Foundry| Pivotal Cloud Foundry (PCF) is a PaaS platform managed by the Cloud Foundry Foundation. It is open-source, user-friendly, and can be deployed on IaaS platforms such as vSphere. Cloud Foundry is used to execute container-based applications via Kubernetes. PCF allows quick and efficient application deployment and maintenance. It can also streamline app updates.|https://www.cloudfoundry.org/|
+
 
 ## Software-as-a-service
 
